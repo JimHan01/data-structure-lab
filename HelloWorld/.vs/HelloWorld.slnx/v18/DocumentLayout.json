@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jim\\Desktop\\\uB370\uC774\uD130\uAD6C\uC870\uBD84\uC11D\\HelloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5174133A-FBA9-488E-A8EB-47EDF895B679}|HelloWorld\\HelloWorld.vcxproj|C:\\Users\\Jim\\Desktop\\\uB370\uC774\uD130\uAD6C\uC870\uBD84\uC11D\\HelloWorld\\HelloWorld\\HelloWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5174133A-FBA9-488E-A8EB-47EDF895B679}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\HelloWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelloWorld.cpp",
+              "DocumentMoniker": "C:\\Users\\Jim\\Desktop\\\uB370\uC774\uD130\uAD6C\uC870\uBD84\uC11D\\HelloWorld\\HelloWorld\\HelloWorld.cpp",
+              "RelativeDocumentMoniker": "HelloWorld\\HelloWorld.cpp",
+              "ToolTip": "C:\\Users\\Jim\\Desktop\\\uB370\uC774\uD130\uAD6C\uC870\uBD84\uC11D\\HelloWorld\\HelloWorld\\HelloWorld.cpp",
+              "RelativeToolTip": "HelloWorld\\HelloWorld.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-04T06:53:28.497Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
